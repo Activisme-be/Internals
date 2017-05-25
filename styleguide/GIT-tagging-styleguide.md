@@ -1,5 +1,7 @@
 # Tagging styleguide
 
+**Read also:** [Standard issue labels]()
+
 For people who make software, the internet has no shortage of best practice for workflow organization
 like [Git flow](https://www.atlassian.com/git/tutorials/comparing-workflows), [relaease versioning](http://semver.org/)
 , GitHub, etc. When you get to the topic of issue management, the reading material plumments.
