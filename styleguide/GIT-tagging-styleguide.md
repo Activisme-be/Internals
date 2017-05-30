@@ -1,6 +1,6 @@
 # Tagging styleguide
 
-**Read also:** [Standard issue labels]()
+**Read also:** [Standard issue labels](../documentatie/github-default-labels.md)
 
 For people who make software, the internet has no shortage of best practice for workflow organization
 like [Git flow](https://www.atlassian.com/git/tutorials/comparing-workflows), [relaease versioning](http://semver.org/)
