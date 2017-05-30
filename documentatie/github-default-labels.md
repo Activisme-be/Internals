@@ -5,8 +5,8 @@ Deze labels worden geimplementeerd op elke Github Repository van activismeBE.
 ## Overzicht
 
 | Naam                  | Kleur code:   | Beschrijving:                                             |
-| :-------------------- | :------------ | : ------------------------------------------------------- |
-| Bug	                |   `#d93f0b`   | Voor all software fouten.                                 |
+| -------------------- | ------------ | :------------------------------------------------------- |
+| Bug	|   `#d93f0b`   | Voor all software fouten. |
 | Chore		            |	`#0e8a16`   | Dingen die niet eech categorie hebben.                    |
 | Confirmed             |	`#d93f0b`   | Bevestigde fout.                                          |
 | Cricitcal priority    | 	`#b60205`   | Kritieke prioriteit.                                      |
