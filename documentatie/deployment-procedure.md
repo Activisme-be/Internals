@@ -23,7 +23,7 @@ last but not least de datum van deployment en aanvraag tot deployment.
 Activisme_BE gebruikt op de server een asset domain. Een voorbehouden domein voor de assets zoals CSS, JS en foto bestanden. De hirarchie bedraagt als volgt. 
 
 ```
-http://www.assets.activisme.be/{project}/{project}/{type}/{bestand}
+http://www.assets.activisme.be/{project}/{type}/{bestand}
 ```
 
 Deze conventie zou gerespecteerd moeten worden doorheen de projecten op de server. De assets worden geplaatst op dit domein. Om de load 
