@@ -9,7 +9,7 @@ Deze labels worden geimplementeerd op elke Github Repository van activismeBE.
 | Bug	|   `#d93f0b`   | Voor all software fouten. |
 | Chore		            |	`#0e8a16`   | Dingen die niet eech categorie hebben.                    |
 | Confirmed             |	`#d93f0b`   | Bevestigde fout.                                          |
-| Cricitcal priority    | 	`#b60205`   | Kritieke prioriteit.                                      |
+| Critical priority    | 	`#b60205`   | Kritieke prioriteit.                                      |
 | Discussion	        |	`#1d76db`   | Discussie als extensie op een vraag.                      |
 | Duplicate     	    |	`#d4c5f9`   | Voor issues die al in de issue tracker staan.             |
 | Enhancement           |	`#fef2c0`   | Een verbetering in het systeem.                           |
